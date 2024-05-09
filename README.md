@@ -2,4 +2,4 @@
 
 # *Editing the file
 
-This is a Data Science course assignment 1.
+This is Data Science course assignment 1.
